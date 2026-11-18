@@ -1,0 +1,20 @@
+# Variables de entorno (NUNCA subir .env real a GitHub)
+.env
+.env.*
+!.env.example
+
+# Dependencias de Composer
+/vendor/
+/vendor_original/
+
+# Archivos subidos por usuarios y QRs generados en tiempo de ejecución
+/uploads/*
+!/uploads/.htaccess
+/images/qr_boleta*.png
+
+# Archivos del sistema / IDE / logs
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

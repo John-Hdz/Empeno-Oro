@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "mpdf/mpdf": "^8.2.2",
+        "phpoffice/phpspreadsheet": "^4.3",
+        "endroid/qr-code": "^6.0"
+    }
+}
