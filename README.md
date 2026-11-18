@@ -1,6 +1,6 @@
 <div align="center">
 
-# Presta Prenda — Sistema de Gestión de Empeños
+#Sistema de Gestión de Empeños
 
 **Aplicación web desarrollada en PHP y MySQL para la administración integral de una casa de empeños.**
 
